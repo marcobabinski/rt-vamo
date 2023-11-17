@@ -7,7 +7,7 @@
 
 #### OBS
 usar o NVM (Node Version Manager) para facilitar o uso do Node;
-O nome do BD deve ser 'RtTomatos';
+O nome do BD deve ser 'rottenTomatoes';
 
 ### Dentro do diretório do projeto rodar
 
