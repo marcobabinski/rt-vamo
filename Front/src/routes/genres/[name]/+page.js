@@ -3,7 +3,7 @@ import axios from "axios"
 
 /** @type {import('./$types.js').PageServerLoad} */
 export async function load({ params }) {
-	const film = await axios.get(`http://localhost:8000/films/${params.id}`);
+	const film = await axios.get(`http://localhost:8000/films/${params.name}`);
 	
 	if (film) return film;
 

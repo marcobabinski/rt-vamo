@@ -13,7 +13,7 @@
     }
 </script>
   
-Título: { film.title } <br>
-Descrição: { film.description } <br>
+Título: { film.name } <br>
+<!-- Descrição: { film.description } <br>
 Nota: { film.note / 10 } <br>
-Duração: { convertDuration(film.duration) }<br>
+Duração: { convertDuration(film.duration) }<br> -->

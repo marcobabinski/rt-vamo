@@ -5,8 +5,7 @@
     let searchInput;
 
     function handleSearch() {
-        // console.log(searchInput);
-        alert(searchInput);
+        window.location.assign('/films');
     }
 </script>
 
